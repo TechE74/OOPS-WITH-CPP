@@ -1,0 +1,31 @@
+  Object-Oriented Programming (OOP) is a way of writing code that makes it easier to represent real-world objects and concepts.
+  It does this by using objects, which are like containers for data and behavior, and classes, which are like blueprints for creating objects.  
+  OOP has several benefits, including making code easier to design, understand, and maintain, as well as making it easier to reuse code across different projects.
+  
+  
+  
+  
+  
+                                                                    BENEFIT OF OOP  
+   MODULARITY 
+   OOP allows you to break down your code into smaller, reusable modules, which makes it easier to maintain and update.
+   This is because each module only needs to focus on a specific functionality, which can be tested and debugged separately.
+
+  ENCAPSULATION
+  OOP uses encapsulation to protect the data and behavior of objects from outside interference.
+  This means that objects can only be modified through their defined interfaces, which prevents unintended changes and reduces the risk of bugs.
+
+  INHERITENCE 
+  OOP uses inheritance to allow objects to inherit properties and behavior from their parent classes.
+  This makes it easier to create new classes that have similar functionality to existing classes, while also allowing for more flexibility and customization.
+
+  POLYMORPHISM 
+  OOP uses polymorphism to allow objects to take on multiple forms, depending on the context in which they are used.
+  This means that a single object can be used in different ways, depending on the situation, which makes the code more flexible and adaptable.
+
+  REUSABILITY 
+  OOP allows you to create classes and objects that can be reused across different projects and applications.
+  This reduces development time and costs, and also improves the overall quality of the code, since reusable components are typically more thoroughly tested and debugged.
+  
+  
+  NOTE -> OOPS WORK WITH CONCEPT OF DRY( DO NOT REPEAT YOURSELF ).....
