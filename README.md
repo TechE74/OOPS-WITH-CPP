@@ -114,7 +114,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 6 -> Adapters (Stacks and Queues)
 
 
-                                                                          Advanced Concepts:
+                                                              Advanced Concepts:
 
 1 -> Smart Pointers
 
@@ -131,7 +131,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 7 -> Templates with Non-Type Parameters
 
 
-                                                                                Best Practices:
+                                                            Best Practices:
 
 1 -> Code Readability
 
