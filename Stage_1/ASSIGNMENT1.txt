@@ -1,0 +1,41 @@
+Write a C++ program that takes two integer inputs from the user and calculates their sum, difference, product, and quotient.
+
+Write a C++ program that takes an integer input from the user and prints whether it is a prime number or not.
+
+Write a C++ program that uses an array of integers to store and print the first 10 even numbers.
+
+Write a C++ program that defines a function called "swap" that takes two integer references and swaps their values.
+
+Write a C++ program that dynamically allocates memory for an integer array of size 5, initializes its values to 0, and prints them.
+
+Write a C++ program that defines a function called "reverse" that takes an integer pointer and reverses the order of the elements in the array pointed to by the pointer.
+
+Write a C++ program that uses a while loop to print the first 10 Fibonacci numbers.
+
+Write a C++ program that defines a function called "average" that takes an integer array and its size as arguments and returns its average.
+
+Write a C++ program that uses switch statements to calculate the sum, difference, product, or quotient of two numbers entered by the user.
+
+
+
+Miscillenous (optional)
+
+Write a program to find the largest number among three numbers entered by the user.
+
+Write a program to check whether a number entered by the user is a palindrome or not.
+
+Write a program to print the first n numbers of the Fibonacci series.
+
+Write a program to sort an array of integers using the bubble sort algorithm.
+
+Write a program to check whether a given string is a palindrome or not.
+
+Write a program to find the factorial of a number using recursion.
+
+Write a program to implement a stack data structure using arrays.
+
+Write a program to implement a queue data structure using linked lists.
+
+Write a program to find the sum of all the elements in a two-dimensional array.
+
+Write a program to implement a binary search algorithm to search for an element in an array.
