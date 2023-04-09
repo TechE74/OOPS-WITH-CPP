@@ -1,0 +1,76 @@
+  Object-Oriented Programming (OOP) is a programming paradigm that is based on the principles of encapsulation, inheritance, polymorphism, and abstraction. 
+  These principles are the building blocks of OOP and are essential to creating efficient and maintainable software systems.
+
+
+                                                                    ENCAPSULATION 
+  Encapsulation is the principle of hiding the implementation details of an object from the outside world and only exposing a set of public interfaces to interact with the object. 
+  Encapsulation helps to achieve data abstraction and reduces code complexity by making code easier to understand and maintain.   
+
+  In short, Basically encapsultion refers to hiding of implemetation 
+  Generally consumer don't think of implememntation or working behind a solution. 
+
+
+  Best exaple to explain this is your transport vehicle ... 
+    What if the Transport Manufacturar provide you veichle without its outer implementation (design/cover). 
+    A transparent design (no Cover) leads to a open view of complex mechanism leads to bad impact.(A consumer simply wants to get benifitted, not in favour of understanding the mechanishm of solution provided).
+    This actual implementation hiding from consumer is known as encapsultion...
+  
+  
+  
+  
+                                                                    INHERITENCE
+   Inheritance is the principle of creating a new class by inheriting properties and behaviors from an existing class. 
+   It promotes code reuse and allows for creating a hierarchical relationship between classes. 
+   Inheritance can help reduce code duplication and improve code maintainability.
+   
+   
+   
+   Lets understand the Inheritence concept with real life example
+          Imagine you have a family with a grandfather, a father, and a son.
+          The grandfather owns a house and some property, and he passes it down to his son (the father) when he dies. 
+          The father then inherits the house and property, along with any other assets the grandfather left behind.
+          Now, the father has a son of his own, and he decides to pass down the house and property to him when he dies. 
+          In this scenario, the son is inheriting the assets from both his father and his grandfather.
+          In this example, inheritance works in a similar way to how it works in programming. 
+          The grandfather's assets are like the base class, while the father and son are like the derived classes. 
+          The father inherits the assets from the grandfather, and the son inherits them from both the father and the grandfather.
+
+
+                                                                      ABSTRACTION
+   This principle is about focusing on the essential features of an object and ignoring the non-essential ones. 
+   Abstraction helps to simplify complex systems by breaking them down into smaller, more manageable parts. 
+   It also makes it easier to change the implementation details of a system without affecting its overall functionality.
+
+
+    Real life example
+    
+          When you go to a restaurant, you don't need to know all the details of how each dish is prepared.
+          You just need to know what the dish is called, what it looks like, and what it tastes like.
+          The menu is an abstraction of the food, allowing you to order and enjoy the food without needing to know all the details of how it is made.
+          
+          
+    Basically, Abstraction simplifies complex systems by breaking them down into smaller, more manageable parts. 
+    It also makes it easier for people to interact with these systems by providing a simplified interface that hides unnecessary details      
+  
+  
+  
+  
+  
+  
+                                                                      POLYMORPHISM
+    It  is a fundamental concept in object-oriented programming that allows objects to take on different forms or behaviors depending on the context in which they are used.
+    In simpler terms, Polymorphism refers to the ability of objects of different classes to be treated as if they belong to the same class.  
+    
+    
+    
+    Real life Example
+          One example of Polymorphism could be a "musical instrument". 
+          A guitar and a piano are both musical instruments, but they produce different sounds and require different techniques to play.
+          However, both instruments can be used to play the same song, and a skilled musician can adapt their playing style to fit the instrument they are using.
+          In this example, the same song can be played using different instruments, exhibiting polymorphic behavior.
+          
+       Simply, polymorphism allows objects to take on different forms or behaviors depending on the context in which they are used. 
+       This enables greater flexibility and adaptability in complex systems, making them more efficient and easier to maintain.     
+       
+       
+       

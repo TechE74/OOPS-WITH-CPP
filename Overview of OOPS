@@ -1,0 +1,61 @@
+OOPS is termed as Object Oriented Programming which deals with real world object modelling wiht help of code.
+In Object Oriented Programming, All concepts revolve around Class and Objects.
+
+                                                      OBJECTS
+An Object is a particular instance or occurrence of something, which has its own set of unique properties and characteristics.
+
+
+                                                      CLASS
+#  A Class is a user-defined data type that encapsulates(wraps/contains) data and behavior into a single unit.  
+#  A Class is essentially a blueprint or template for creating objects.
+#  The data in a Class is stored in member variables, which are also called data members or attributes.
+#  Data Member represent the characteristics or properties of the objects created from the class.
+
+                                                      
+                                                      Real Life Example 
+  Imagine that you are playing with a set of toy cars. Each car is unique in terms of its color, make, and model. 
+  You can move the cars around and make them do different things, like driving, stopping, and honking the horn.
+  In OOP, we can model each toy car as an object, with its own set of attributes and behaviors. 
+  For example, we could create a "Car" class that has attributes like its make, model, and color, and methods like "start engine", "drive", and "stop".
+  Each time we create an object of the "Car" class, we are essentially creating a new toy car.
+  To make things more interesting, we can also define relationships between objects.
+  For example, we might create a "Driver" class that has an attribute for the car they are currently driving.
+  When a driver gets into a car and starts it up, we could call the "start engine" method on the car object. 
+  Then, when the driver is ready to stop, we could call the "stop" method on the car object.
+  By using classes and objects in our code, we can create more realistic and complex models of the world around us.
+  We can also reuse code by creating new objects of existing classes, rather than writing new code from scratch each time
+  
+  
+  Basic represenation of above scenario, just for a glance view..
+  
+  class Car {
+  public:
+      // Constructor
+      Car(string make, string model, string color) {
+          this->make = make;
+          this->model = model;
+          this->color = color;
+      }
+    
+      // Methods
+      void startEngine() {
+          cout << "Starting engine..." << endl;
+      }
+    
+      void drive() {
+          cout << "Driving..." << endl;
+      }
+    
+      void stop() {
+          cout << "Stopping..." << endl;
+      }
+    
+  private:
+      // Attributes
+      string make;
+      string model;
+      string color;
+ };
+ 
+ 
+ We learn it in more descriptive in further class 
