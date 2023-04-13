@@ -38,37 +38,39 @@
 
 #include <iostream>
 
+using namespace std;
+
 class MyClass
 {
 public:
     // Default constructor
     MyClass()
     {
-        std::cout << "Default constructor called" << std::endl;
+        cout << "Default constructor called" << endl;
     }
 
     // Parameterized constructor
     MyClass(int value)
     {
-        std::cout << "Parameterized constructor called with value: " << value << std::endl;
+        cout << "Parameterized constructor called with value: " << value << endl;
     }
 
     // Copy constructor
     MyClass(const MyClass &other)
     {
-        std::cout << "Copy constructor called" << std::endl;
+        cout << "Copy constructor called" << endl;
     }
 
     // Move constructor
     MyClass(MyClass &&other) noexcept
     {
-        std::cout << "Move constructor called" << std::endl;
+        cout << "Move constructor called" << endl;
     }
 
     // Destructor
     ~MyClass()
     {
-        std::cout << "Destructor called" << std::endl;
+        cout << "Destructor called" << endl;
     }
 };
 
@@ -84,7 +86,7 @@ int main()
     MyClass obj3 = obj2;
 
     // Create object using move constructor
-    MyClass obj4 = std::move(obj3);
+    MyClass obj4 = move(obj3);
 
     // Destructor will be called automatically when objects go out of scope
     return 0;

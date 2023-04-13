@@ -49,6 +49,8 @@
 
 #include <iostream>
 
+using namespace std;
+
 class MyClass
 {
 public:
@@ -76,7 +78,7 @@ int main()
     MyClass obj;
     obj.publicVar = 10;    // Public member variable can be accessed from outside the class
     obj.setPrivateVar(20); // Private member variable can only be accessed within the class
-    std::cout << "Private variable value: " << obj.getPrivateVar() << std::endl;
+    cout << "Private variable value: " << obj.getPrivateVar() << endl;
     // Protected member variable can only be accessed within the class and its subclasses
     return 0;
 }
