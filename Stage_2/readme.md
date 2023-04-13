@@ -29,4 +29,4 @@ This folder contains code files that cover various advanced topics in C++ progra
 # Const Objects and Member Functions
 < > This code file covers const objects and member functions in C++. Const objects are objects that are declared as const and cannot be modified. Const member functions are member functions that are declared as const and cannot modify the data members of the class.
 
-# NOTE -> Each topic is covered in a separate code file. The code files are named after the topic they cover, and have the .cpp extension.
+ NOTE -> Each topic is covered in a separate code file. The code files are named after the topic they cover, and have the .cpp extension.
