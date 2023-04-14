@@ -10,7 +10,7 @@
 
 < > Inheritance allows us to define a new class based on an existing class.
 
-image.png
+![image](https://user-images.githubusercontent.com/129526047/231940308-fdb3acb5-aab6-462e-96b1-b5d3ba6803ee.png)
 
 < > The existing class is called the base class, and the new class is called the derived class.
 
@@ -19,7 +19,7 @@ image.png
 
 ### For example, suppose we have a class called Geometry, which represents a generic geometric Geometry. We can define a subclass called Circle, which inherits from the Geometry class. The Circle class would have all the properties and behavior of the Geometry class, but it would also have its own properties and behavior specific to circles, such as a radius and a method to calculate the area of the circle.
 
-image.png
+![image](https://user-images.githubusercontent.com/129526047/231940880-c44a36f0-84c3-4bb7-963e-eb40c09e2444.png)
 
 
 
@@ -149,6 +149,8 @@ main()
 
 
 # Modes of Inheritance: There are 3 modes of inheritance.
+    ![image](https://user-images.githubusercontent.com/129526047/231941003-e0880dd0-9124-4f21-9ec2-f5688ae68b9f.png)
+
 
 ## Public Mode: 
 If we derive a subclass from a public base class. Then the public member of the base class will become public in the derived class and protected members of the base class will become protected in the derived class.
@@ -199,13 +201,13 @@ class D : private A // 'private' is default for classes
  |________________________|____________________________________________________________________|
 
 
- image.png
+![image](https://user-images.githubusercontent.com/129526047/231941067-8a9b4417-ee71-4c38-bf80-c078d68050b5.png)
 
 
 
 # Types Of Inheritance:-
 
-image.png
+![image](https://user-images.githubusercontent.com/129526047/231941156-4c03016c-76c3-4f5d-920b-07512195057f.png)
 
 
 ### Single Inheritance: 
