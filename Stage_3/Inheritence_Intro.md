@@ -193,12 +193,12 @@ class D : private A // 'private' is default for classes
 };
 
 ### SUMMARY
-  _____________________________________________________________________________________________
- |  Inheritance Mode	  |  Access Specifier of Base Class Members in Subclass when Derived as|
- |  Public Inheritance	  |  Public, Protected, and Private                                    |
- |  Protected Inheritance |	 Protected, and Private                                            |
- |  Private Inheritance	  |  Private                                                           |
- |________________________|____________________________________________________________________|
+    __________________________________________________________________________________________________
+    |  Inheritance Mode	        |  Access Specifier of Base Class Members in Subclass when Derived as|
+    |  Public Inheritance	    |  Public, Protected, and Private                                    |
+    |  Protected Inheritance    |	 Protected, and Private                                          |
+    |  Private Inheritance	    |  Private                                                           |
+    |________________________________________________________________________________________________|
 
 
 ![image](https://user-images.githubusercontent.com/129526047/231941067-8a9b4417-ee71-4c38-bf80-c078d68050b5.png)
