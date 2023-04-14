@@ -2,7 +2,7 @@
 This repository contains a collection of object-oriented programming (OOP)  examples written in C++. It's intended for those who are interested in learning or improving their skills in C++ programming and OOP concepts.  The repository includes  code snippets that demonstrate the fundamentals of OOP in C++.
 
 
-                                                        Introduction to OOP:
+                                                        Introduction to OOP :
 
 1 -> Overview of OOP
 
@@ -10,7 +10,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 
 3 -> Benefits of OOP
 
-                                                             Basics of C++:
+                                                             Basics of C++ (STAGE 1):
                                                              
 1 -> Basic Syntax and Semantics
 
@@ -27,7 +27,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 7 -> Dynamic Memory Allocation
 
                                                            
-                                                            Classes and Objects:
+                                                            Classes and Objects (STAGE 2):
 
 1 -> Class and Object Definition
 
@@ -48,7 +48,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 9 -> Const Objects and Member Functions
 
                     
-                                                               Inheritance:
+                                                               Inheritance (STAGE 3):
 
 1 -> Introduction to Inheritance
 
@@ -63,7 +63,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 6 -> Virtual Base Classes
 
 
-                                                                 Polymorphism:
+                                                                 Polymorphism (STAGE 4):
 
 1 -> Introduction to Polymorphism
 
@@ -86,7 +86,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 10 -> Virtual Destructors
 
  
-                                                                Exception Handling:
+                                                                Exception Handling (STAGE 5):
 
 1 -> Introduction to Exception Handling
 
@@ -99,7 +99,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 5 -> Exception Specifications
 
 
-                                                             Standard Template Library (STL):
+                                                             Standard Template Library (STL) (STAGE 6):
                                                              
 1 -> Overview of STL
 
@@ -114,7 +114,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 6 -> Adapters (Stacks and Queues)
 
 
-                                                              Advanced Concepts:
+                                                              Advanced Concepts (STAGE 7):
 
 1 -> Smart Pointers
 
@@ -131,7 +131,7 @@ This repository contains a collection of object-oriented programming (OOP)  exam
 7 -> Templates with Non-Type Parameters
 
 
-                                                            Best Practices:
+                                                            Best Practices (STAGE 8): 
 
 1 -> Code Readability
 
