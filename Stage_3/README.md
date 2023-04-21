@@ -13,7 +13,6 @@ This folder contains the code and documentation related to the topic of Inherita
 ### Multi-Level Inheritance
 ### Hybrid Inheritance
 ### Virtual Base Classes
-### Introduction to Inheritance
 
 # Inheritance 
  It is a fundamental concept in object-oriented programming that allows a class to inherit properties and behavior from another class. In this section, we will cover the basics of inheritance, including how to create a subclass and how to override inherited methods.

@@ -1,0 +1,64 @@
+Nice Man working hard , Lets Exercise your brain
+
+ASSIGNMENT
+
+Task1 -> Define a class Person with the following private data members:
+    name (a string)
+    age (an integer)
+    gender (a character)
+    address (a string)
+
+Task2 -> Create a derived class Student that inherits from the Person class and has the following additional private data members:
+    id (an integer)
+    major (a string)
+    gpa (a double)
+
+Task3 -> Use access control to make the name, age, gender, and address data members of the Person class private, and the id, major, and gpa data members of the Student class private.
+
+Task4 -> Define a constructor for the Person class that takes four parameters and initializes the data members with the provided values.
+
+Task5 -> Define a constructor for the Student class that takes seven parameters and initializes the Person data members using the Person constructor, and initializes the id, major, and gpa data members with the provided values.
+
+Task6 -> Define a destructor for the Person class that simply prints a message to the console indicating that the object has been destroyed.
+
+Task7 -> Define a destructor for the Student class that simply prints a message to the console indicating that the object has been destroyed.
+
+Task8 -> Create a derived class GraduateStudent that inherits from the Student class and has the following additional private data members:
+    advisor (a string)
+    thesis (a string)
+
+Task9 -> Use protected access control to make the id, major, and gpa data members of the Student class accessible to the GraduateStudent class.
+
+Task10 -> Define a constructor for the GraduateStudent class that takes nine parameters and initializes the Person and Student data members using the corresponding constructors, and initializes the advisor and thesis data members with the provided values.
+
+Task11 -> Define a destructor for the GraduateStudent class that simply prints a message to the console indicating that the object has been destroyed.
+
+Task12 -> Create an object p1 of the Person class with the following values:
+    name: "Alice"
+    age: 30
+    gender: 'F'
+    address: "123 Main St."
+
+Task13 -> Create an object s1 of the Student class with the following values:
+    name: "Bob"
+    age: 25
+    gender: 'M'
+    address: "456 Oak St."
+    id: 1001
+    major: "Computer Science"
+    gpa: 3.5
+
+Task14 -> Create an object g1 of the GraduateStudent class with the following values:
+    name: "Charlie"
+    age: 35
+    gender: 'M'
+    address: "789 Elm St."
+    id: 2001
+    major: "Physics"
+    gpa: 3.8
+    advisor: "Dr. Smith"
+    thesis: "Quantum Computing"
+
+Task15 -> Define a virtual function print() in the Person class that simply prints the name, age, gender, and address data members to the console.
+
+Task16 -> Override the print() function in the Student class to also print the id, major, and gpa data members.

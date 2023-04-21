@@ -1,0 +1,70 @@
+Congrats You have ended stage 2. Lets See how much you had learnt.
+
+
+ASSIGNMENT
+
+Task0 -> Define a class Person with the following private data members:
+    name (a string)
+    age (an integer)
+    gender (a character)
+    address (a string)
+
+Task1 -> Use access specifiers to make the name, age, and gender data members private and the address data member public.
+
+Task2 -> Define a constructor for the Person class that takes four parameters and initializes the data members with the provided values.
+
+Task3 -> Define a destructor for the Person class that simply prints a message to the console indicating that the object has been destroyed.
+
+Task4 -> Define a member function get_address() that returns the value of the address data member.
+
+Task5 -> Define an inline member function get_name() that returns the value of the name data member.
+
+Task6 -> Define a static data member count that keeps track of the number of Person objects that have been created.
+
+Task7 -> Define a friend function print_person(const Person& p) that takes a Person object as a parameter and prints its data members to the console.
+
+Task8 -> Define a nested class Contact within the Person class that has the following private data members:
+    phone (a string)
+    email (a string)
+
+Task9 -> Define a const object p1 of the Person class with the following values:
+    name: "Alice"
+    age: 30
+    gender: 'F'
+    address: "123 Main St."
+
+Task10 -> Define a member function print_contact() for the Contact nested class that prints the values of the phone and email data members to the console.
+    Call the print_person() friend function with p1 as the argument.
+    Call the get_address() member function of p1 and print the result to the console.
+
+Task11 -> Increment the count static data member twice, then print its value to the console.
+
+Task12 -> Create an object p2 of the Person class with the following values:
+    name: "Bob"
+    age: 25
+    gender: 'M'
+    address: "456 Oak St."
+
+Task13 -> Create an object p3 of the Person class with the following values:
+    name: "Charlie"
+    age: 35
+    gender: 'M'
+    address: "789 Elm St."
+
+Task14 -> Define an inline member function get_count() that returns the value of the count static data member.
+
+Task15 -> Call the get_count() member function and print the result to the console.
+
+Task16 -> Create a const object c1 of the Contact nested class within the p2 object with the following values:
+    phone: "555-1234"
+    email: "bob@example.com"
+
+Task17 -> Call the print_contact() member function of c1 and print the result to the console.
+
+Task18 -> Define a const object p4 of the Person class with the following values:
+    name: "David"
+    age: 40
+    gender: 'M'
+    address: "456 Oak St."
+
+Task19 -> Use the equality operator to compare p2 and p4, then print the result to the console.
